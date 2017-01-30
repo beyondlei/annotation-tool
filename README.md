@@ -1,0 +1,1 @@
+The annotation tool is hosted to annotate the documents (generated in the xLiMe pipeline). 
